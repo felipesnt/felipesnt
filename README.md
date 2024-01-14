@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋, I'm Felipe :)</h2>
 <h3 align="center">Front-end developer | São Paulo, SP</h3>
 
-<p>⚡ A curious lawyer who likes web development, passionate about technology, games and cats.</p>
+<p>⚡ A curious guy who likes web development, passionate about technology, games and cats.</p>
 <p>📫 How to reach me <a href="mailto:felipe.ssnt@gmail.com"><strong>felipe.ssnt@gmail.com</strong></a></p>
 
 <h4 align="left">Connect with me:</h4>
