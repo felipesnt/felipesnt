@@ -2,7 +2,7 @@
 <h3 align="center">Software developer | São Paulo, SP</h3>
 
 <p>⚡ A curious guy who likes web development, passionate about technology, games and cats.</p>
-<p>📫 How to reach me <a href="mailto:felipesnt.dev@gmail.com"><strong>felipesnt.dev@gmail.com</strong></a></p>
+<p>📫 How to reach me <a href="mailto:felipe.ssnt@gmail.com"><strong>felipe.ssnt@gmail.com</strong></a></p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
